@@ -242,4 +242,4 @@ This repository serves as the official landing page for Mosaic Desktop. The soft
 **Get the most recent version of Mosaic Desktop today!**
 
 ---
-**Last updated:** 2026-09-18 12:43:06 UTC
+**Last updated:** 2026-09-18 16:56:51 UTC
